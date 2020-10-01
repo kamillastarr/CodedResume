@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+    border: peachpuff;
+}
+
+h1 {
+    color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+h2 {
+    color: orangered;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+h3 {
+    color: orange;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+    font-weight: normal;
+}
+
+h6 {
+    color: powderblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-small;
+}
+
+p {
+    color: purple;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
